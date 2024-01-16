@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCentroDerecha
+id btnInferior
+id btnSuperior
+id button
+id editTextNumberPassword
+id editTextTextEmailAddress
+id textView2
+id textView3
+layout frame_layout
+layout linear_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn1sup
+style Base.Theme.Layouts
+style Theme.Layouts
+xml backup_rules
+xml data_extraction_rules
