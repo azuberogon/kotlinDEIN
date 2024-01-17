@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="lista_cargo">
+        <item>Tecnic@</item>
+        <item>Administrativ@</item>
+    </array>
+    <array name="lista_estado_civil">
+        <item>Solter@</item>
+        <item>Casad@</item>
+    </array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">30dp</dimen>
+    <string name="apellidos">Apellidos</string>
+    <string name="app_name">Layouts (2)</string>
+    <style name="Base.Theme.Layouts2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Layouts2" parent="Base.Theme.Layouts2"/>
+</resources>
