@@ -33,11 +33,11 @@
 
 
 
-        <TableRow android:background="#878787">
+        <TableRow android:background="#C1C1C1">
             <TextView
                 android:layout_column="0"
                 android:padding="3dip"
-                android:text="Producto"
+                android:text="Jabón de manos x 1"
                 android:textColor="@color/black"
                 />
             <TextView
@@ -50,31 +50,7 @@
             <TextView
                 android:layout_column="2"
                 android:padding="3dip"
-                android:text="subtotal"
-                android:textColor="@color/black"
-                />
-        </TableRow>
-
-
-
-        <TableRow android:background="#878787">
-            <TextView
-                android:layout_column="0"
-                android:padding="3dip"
-                android:text="Producto"
-                android:textColor="@color/black"
-                />
-            <TextView
-                android:layout_column="1"
-                android:padding="3dip"
-                android:text=""
-                android:textColor="@color/black"
-                />
-
-            <TextView
-                android:layout_column="2"
-                android:padding="3dip"
-                android:text="subtotal"
+                android:text="2€"
                 android:textColor="@color/black"
                 />
         </TableRow>
@@ -85,8 +61,32 @@
             <TextView
                 android:layout_column="0"
                 android:padding="3dip"
-                android:text="Producto"
+                android:text="Shampoo Alpecin x 1"
                 android:textColor="#0088FF"
+                />
+            <TextView
+                android:layout_column="1"
+                android:padding="3dip"
+                android:text=""
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_column="2"
+                android:padding="3dip"
+                android:text="10€"
+                android:textColor="@color/black"
+                />
+        </TableRow>
+
+
+
+        <TableRow android:background="#C1C1C1">
+            <TextView
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Producto"
+                android:textColor="#000000"
                 />
             <TextView
                 android:layout_column="1"
@@ -103,12 +103,12 @@
                 />
         </TableRow>
 
-        <TableRow android:background="#878787">
+        <TableRow android:background="#FFFFFF">
             <TextView
                 android:layout_column="0"
                 android:padding="3dip"
                 android:text="Producto"
-                android:textColor="#0088FF"
+                android:textColor="#FF0000"
                 />
             <TextView
                 android:layout_column="1"
@@ -120,15 +120,15 @@
             <TextView
                 android:layout_column="2"
                 android:padding="3dip"
-                android:text="2€"
+                android:text="13,4€"
                 android:textColor="@color/black"
                 />
-        <TableRow android:background="#878787">
+        <TableRow android:background="#FFFFFF">
             <TextView
                 android:layout_column="0"
                 android:padding="3dip"
                 android:text="Producto"
-                android:textColor="#0088FF"
+                android:textColor="#00B567"
                 />
             <TextView
                 android:layout_column="1"
