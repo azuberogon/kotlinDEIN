@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ventanas de aitor</string>
+    <string name="modulo" >DEIN</string>
+    <string name="nombre">Escriba tu nombre</string>
+    <string name="aceptar">Aceptar\n</string>
+    <string name="alumno">Aitor</string>
 </resources>
