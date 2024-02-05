@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_settings_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_enviar
+id copy
+id download
+id editTextText2_contrasena
+id editTextText_nombre_usuario
+id img_ajustes
+id share
+layout activity_main
+menu menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string ajustes
+string app_name
+string copy_description
+string download
+string share
+style Base.Theme.MenusAitor
+style Theme.MenusAitor
+xml backup_rules
+xml data_extraction_rules

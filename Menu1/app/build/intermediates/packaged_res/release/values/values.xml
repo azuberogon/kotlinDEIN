@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ajustes">ajustes</string>
+    <string name="app_name">MenusAitor</string>
+    <string name="copy_description">copiarDescripcion</string>
+    <string name="download">Descarga</string>
+    <string name="share">Compartir</string>
+    <style name="Base.Theme.MenusAitor" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MenusAitor" parent="Base.Theme.MenusAitor"/>
+</resources>
