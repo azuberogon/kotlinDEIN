@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenusAitor</string>
+    <string name="download">Descarga</string>
+    <string name="share">Compartir</string>
+    <string name="copy_description">copiarDescripcion</string>
+    <string name="ajustes">ajustes</string>
+</resources>
